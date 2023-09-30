@@ -1,4 +1,4 @@
 # website
 Ragothaman M Yennamalli's lab website
 
-This git is a the place where I update my current research, team members, teaching, etc. 
+This git is the place where I update my current research, team members, teaching, etc. 
